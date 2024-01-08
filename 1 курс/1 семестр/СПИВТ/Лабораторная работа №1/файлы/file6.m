@@ -1,0 +1,17 @@
+x = 1:0.1:15;
+subplot (1, 2, 1);
+y1 = gaussmf (x, [5 10]);
+y2 = gaussmf (x, [4 8]);
+y3 = min ([y1; y2]);
+plot (x, y1,':', 'LineWidth', 4, 'Color', 'Red');
+hold on;
+plot (x, y2,':', 'LineWidth', 4, 'Color', 'Green');
+hold on;
+plot (x, y3, 'LineWidth', 4, 'Color', 'Blue');
+subplot (1, 2, 2);
+y4 = max ([y1; y2]);
+plot (x, y1,':', 'LineWidth', 4, 'Color', 'Red');
+hold on;
+plot (x, y2,':', 'LineWidth', 4, 'Color', 'Green');
+hold on;
+plot (x, y4, 'LineWidth', 4, 'Color', 'Blue'); 

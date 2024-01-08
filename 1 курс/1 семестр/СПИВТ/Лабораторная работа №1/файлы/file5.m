@@ -1,0 +1,13 @@
+x = [0:25];
+subplot (1, 3, 1);
+y = zmf (x,[5 10]);
+plot (x, y, 'LineWidth', 4);
+xlabel ('zmf (x, P), P = [5 10]');
+subplot (1, 3, 2);
+y = pimf (x, [5 10 15 20]);
+plot (x, y, 'LineWidth', 4);
+xlabel ('pimf (x, P), P = [5 10 15 20]');
+subplot (1, 3, 3);
+y = smf (x, [15 20]);
+plot (x, y, 'LineWidth', 4);
+xlabel ('smf (x, P), P = [15 20]');

@@ -1,0 +1,13 @@
+x = [0:15];
+subplot (1, 3, 1);
+y = sigmf (x,[5 6]);
+plot (x, y, 'LineWidth', 4);
+xlabel ('sigmf (x, P), P = [5 6]');
+subplot (1, 3, 2);
+y = dsigmf (x, [5 6 9 10]);
+plot (x, y, 'LineWidth', 4);
+xlabel ('dsigmf (x, P), P = [5 6 9 10]');
+subplot (1, 3, 3);
+y = psigmf (x, [5 6 9 10]);
+plot (x, y, 'LineWidth', 4);
+xlabel ('psigmf (x, P), P = [5 6 9 10]');

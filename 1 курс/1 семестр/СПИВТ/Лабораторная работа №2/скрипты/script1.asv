@@ -1,0 +1,15 @@
+x=[0:0.1:10];
+yV1=ones([1,30]).*0;
+yV1=[yV1, (6-x(31:60))./3.*0];
+yV1=[yV1, zeros([1,41])];
+plot(x,yV1, 'Linewidth',4)
+hold on
+yV2=zeros([1,20]);
+yV2=[yV2, (x(21:50)-2)./3.*0.83];
+yV2=[yV2, (8-x(51:80))./3.*0.83];
+yV2=[yV2, zeros([1,21])];
+plot(x,yV2, 'Linewidth',4, 'Color', 'red')
+grid on
+hold on
+yN3= zeros([1,101]);
+plot(x,yN3, 'Linewidth',4)
