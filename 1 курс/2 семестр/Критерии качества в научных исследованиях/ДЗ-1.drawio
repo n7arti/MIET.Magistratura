@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" modified="2024-05-07T17:25:39.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition MSI)" etag="ad505J5WWsIqj-nQvtuT" version="24.3.1" type="device">
+  <diagram name="Страница — 1" id="BIyofax2Zn6v6Z6tiSZf">
+    <mxGraphModel dx="961" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5KikIoSj-X9uJUkXqhk_-2" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Секретариат факультета&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5KikIoSj-X9uJUkXqhk_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="200" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="5KikIoSj-X9uJUkXqhk_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="100" width="200" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="5KikIoSj-X9uJUkXqhk_-12" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Студенты&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5KikIoSj-X9uJUkXqhk_-13" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Экзаменаторы&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5KikIoSj-X9uJUkXqhk_-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="100" width="200" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KikIoSj-X9uJUkXqhk_-15" target="E1G2MGOhAjvTEA_6PSeq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5KikIoSj-X9uJUkXqhk_-15" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14.6667px;&quot;&gt;Начало&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="125" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-1" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Организует расписание&lt;br&gt;экзаменов, назначает экзаменаторов&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-3" target="E1G2MGOhAjvTEA_6PSeq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-3" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Расписание экзаменов&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;connectable=1;recursiveResize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-1" target="E1G2MGOhAjvTEA_6PSeq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-5" target="E1G2MGOhAjvTEA_6PSeq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-5" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Подготавливаются к экзаменам&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="227.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-7" target="E1G2MGOhAjvTEA_6PSeq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-7" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Подготовленные для экзамена&lt;br/&gt;знания&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;connectable=1;recursiveResize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-11" target="E1G2MGOhAjvTEA_6PSeq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-11" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Оценивают работы студентов&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="316.25" width="160" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-13" target="E1G2MGOhAjvTEA_6PSeq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="440" />
+              <mxPoint x="670" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;нет&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E1G2MGOhAjvTEA_6PSeq-15">
+          <mxGeometry x="-0.9489" relative="1" as="geometry">
+            <mxPoint x="-10" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-13" target="E1G2MGOhAjvTEA_6PSeq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-37" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;да&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E1G2MGOhAjvTEA_6PSeq-24">
+          <mxGeometry x="0.2803" relative="1" as="geometry">
+            <mxPoint x="20" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-13" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14.6667px;&quot;&gt;Экзамен сдан?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="400" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-20" target="E1G2MGOhAjvTEA_6PSeq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-20" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Выставляют оценки&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-21" target="E1G2MGOhAjvTEA_6PSeq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-21" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Оценки студентов&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;connectable=1;recursiveResize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="572.5" width="160" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-26" target="E1G2MGOhAjvTEA_6PSeq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-26" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Фиксирует результаты в журнале&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="576.25" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-27" target="E1G2MGOhAjvTEA_6PSeq-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-27" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Зарегистрированные оценки&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;connectable=1;recursiveResize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="655" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-30" target="E1G2MGOhAjvTEA_6PSeq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-30" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Получают свои результаты&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="660" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1G2MGOhAjvTEA_6PSeq-31" target="E1G2MGOhAjvTEA_6PSeq-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-31" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Результаты экзаменов&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;connectable=1;recursiveResize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E1G2MGOhAjvTEA_6PSeq-35" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14.6667px;&quot;&gt;Финиш&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="325" y="820" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
