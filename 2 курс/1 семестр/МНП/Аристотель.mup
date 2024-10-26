@@ -1,0 +1,476 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Мировоззрение Аристотеля",
+      "id": 1,
+      "attr": {
+        "position": [
+          -96,
+          -60,
+          1
+        ],
+        "style": {
+          "text": {
+            "color": "#FFFFFF"
+          },
+          "fontMultiplier": 1.25
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Сущность (онтология)",
+          "id": 84,
+          "ideas": {
+            "1": {
+              "title": "Форма",
+              "id": 86,
+              "ideas": {
+                "1": {
+                  "title": "Внутреннее определение, что делает объект тем, что он есть",
+                  "id": 88,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "2": {
+              "title": "Материя",
+              "id": 87,
+              "ideas": {
+                "1": {
+                  "title": "Физическая основа, из которой состоят объекты",
+                  "id": 89,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "3": {
+              "title": "Причины",
+              "id": 90,
+              "ideas": {
+                "1": {
+                  "title": "Материальная причина",
+                  "id": 91,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Формальная причина",
+                  "id": 92,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Действующая причина",
+                  "id": 93,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Целевая причина",
+                  "id": 94,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              227,
+              1,
+              2
+            ],
+            "style": {
+              "backgroundColor": "#CCFFFF"
+            }
+          }
+        },
+        "-2": {
+          "title": "Наука и природа",
+          "id": 109,
+          "ideas": {
+            "1": {
+              "title": "Причинность",
+              "id": 110,
+              "ideas": {
+                "1": {
+                  "title": "Все явления имеют причины и следствия",
+                  "id": 113,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Изучение природы как исследование конкретных причин",
+                  "id": 114,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            },
+            "2": {
+              "title": "Заботиться о теле",
+              "id": 112,
+              "ideas": {
+                "1": {
+                  "title": "Живые организмы имеют душу, которая определяет их природу",
+                  "id": 115,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Типы души",
+                  "id": 116,
+                  "ideas": {
+                    "1": {
+                      "title": "Растительная",
+                      "id": 117,
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFCC99"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Животная",
+                      "id": 118,
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFCC99"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Разумная",
+                      "id": 119,
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFCC99"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              546,
+              -35,
+              6
+            ],
+            "style": {
+              "backgroundColor": "#FFCC99"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Этика\n",
+          "id": 95,
+          "ideas": {
+            "1": {
+              "title": "Добродетель",
+              "id": 96,
+              "ideas": {
+                "1": {
+                  "title": "Счастье (эвдемония) как высшая цель жизни",
+                  "id": 99,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Добродетель — это среднее между крайностями (золотая середина)",
+                  "id": 100,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Практическая мудрость (фронезис)",
+              "id": 98,
+              "ideas": {
+                "1": {
+                  "title": "Умение применять этические принципы в конкретных ситуациях",
+                  "id": 101,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Важность разума для определения добродетели",
+                  "id": 102,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              300,
+              -233,
+              3
+            ],
+            "style": {
+              "backgroundColor": "#666699",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "-12": {
+          "title": "Политика",
+          "id": 120,
+          "ideas": {
+            "1": {
+              "title": "Форма государства",
+              "id": 121,
+              "ideas": {
+                "1": {
+                  "title": "Лучшие формы правления",
+                  "id": 124,
+                  "ideas": {
+                    "1": {
+                      "title": "Монархия",
+                      "id": 125
+                    },
+                    "2": {
+                      "title": "Аристократия",
+                      "id": 126
+                    },
+                    "3": {
+                      "title": "Полития",
+                      "id": 127
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Худшие формы правления",
+                  "id": 128,
+                  "ideas": {
+                    "1": {
+                      "title": "Тирания",
+                      "id": 129
+                    },
+                    "2": {
+                      "title": "Олигархия",
+                      "id": 130
+                    },
+                    "3": {
+                      "title": "Демократия",
+                      "id": 131
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Цель государства",
+              "id": 123,
+              "ideas": {
+                "1": {
+                  "title": "Достижение общего блага и счастья граждан",
+                  "id": 132
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              167,
+              357,
+              4
+            ]
+          }
+        },
+        "-1": {
+          "title": "Логика",
+          "id": 103,
+          "ideas": {
+            "1": {
+              "title": "Силлогизм",
+              "id": 104,
+              "ideas": {
+                "1": {
+                  "title": "Основной метод дедуктивного вывода",
+                  "id": 106,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Структура: две предпосылки и заключение",
+                  "id": 107,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#008080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Формальная логика",
+              "id": 105,
+              "ideas": {
+                "1": {
+                  "title": "Изучение правильных и неправильных форм аргументации",
+                  "id": 108,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#008080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              258,
+              -132,
+              7
+            ],
+            "style": {
+              "backgroundColor": "#008080",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Мировоззрение Аристотеля",
+  "links": []
+}

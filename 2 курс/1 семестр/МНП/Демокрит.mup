@@ -1,0 +1,511 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Мировоззрение Демокрит",
+      "id": 1,
+      "attr": {
+        "position": [
+          -96,
+          -60,
+          1
+        ],
+        "style": {
+          "text": {
+            "color": "#FFFFFF"
+          },
+          "fontMultiplier": 1.25
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Атомы",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "Характеристики атомов",
+              "id": 41,
+              "ideas": {
+                "1": {
+                  "title": "Непрерывны",
+                  "id": 42,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Неделимы",
+                  "id": 44,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Вечны",
+                  "id": 45,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Неизменны",
+                  "id": 46,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#99CC00"
+                }
+              }
+            },
+            "2": {
+              "title": "Форма и движение",
+              "id": 47,
+              "ideas": {
+                "1": {
+                  "title": "Многообразие форм",
+                  "id": 48,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Бесконечное движение",
+                  "id": 49,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#99CC00"
+                }
+              }
+            },
+            "3": {
+              "title": "Изменения в мире",
+              "id": 50,
+              "ideas": {
+                "1": {
+                  "title": "Объединение и разделение атомов",
+                  "id": 51,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Комбинации создают все явления",
+                  "id": 52,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#99CC00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              273,
+              -184,
+              10
+            ],
+            "style": {
+              "backgroundColor": "#99CC00"
+            }
+          }
+        },
+        "2": {
+          "title": "Познавательная теория",
+          "id": 69,
+          "ideas": {
+            "1": {
+              "title": "Чувственное восприятие",
+              "id": 70,
+              "ideas": {
+                "1": {
+                  "title": "Основано на движении атомов от объектов к нашим органам чувств",
+                  "id": 72,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Чувства не дают полного знания",
+                  "id": 73,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "2": {
+              "title": "Разумное познание",
+              "id": 71,
+              "ideas": {
+                "1": {
+                  "title": "Логика и разум важнее для познания истины",
+                  "id": 74,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Познание атомов невозможно через чувства",
+                  "id": 75,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              320,
+              161,
+              8
+            ],
+            "style": {
+              "backgroundColor": "#CCFFFF"
+            }
+          }
+        },
+        "-12": {
+          "title": "Миропорядок",
+          "id": 61,
+          "ideas": {
+            "1": {
+              "title": "Отсутствие цели",
+              "id": 62,
+              "ideas": {
+                "1": {
+                  "title": "Нет высшей цели или разума, управляющего миром",
+                  "id": 63,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF6600",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Все процессы случайны и естественны",
+                  "id": 65,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF6600",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FF6600",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Причинно-следственные связи",
+              "id": 66,
+              "ideas": {
+                "1": {
+                  "title": "Механистическое объяснение явлений",
+                  "id": 67,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF6600",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Всё в мире происходит по необходимости",
+                  "id": 68,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF6600",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FF6600",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              385,
+              -14,
+              6
+            ],
+            "style": {
+              "backgroundColor": "#FF6600",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "-22": {
+          "title": "Этика Демокрита",
+          "id": 76,
+          "ideas": {
+            "1": {
+              "title": "Эвдемония (счастье)",
+              "id": 77,
+              "ideas": {
+                "1": {
+                  "title": "Главная цель жизни - достижение внутреннего покоя (атараксия)",
+                  "id": 79,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF99CC",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Умеренность и самодостаточность - путь к счастью",
+                  "id": 81,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF99CC",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FF99CC",
+                  "text": {
+                    "color": "#000000"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Умеренность",
+              "id": 78,
+              "ideas": {
+                "1": {
+                  "title": "Избегание крайностей в желаниях и удовольствиях",
+                  "id": 82,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF99CC",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Гармония между разумом и чувствами",
+                  "id": 83,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF99CC",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FF99CC",
+                  "text": {
+                    "color": "#000000"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              186,
+              296,
+              9
+            ],
+            "style": {
+              "backgroundColor": "#FF99CC",
+              "text": {
+                "color": "#000000"
+              }
+            }
+          }
+        },
+        "-6": {
+          "title": "Пустота",
+          "id": 53,
+          "ideas": {
+            "1": {
+              "title": "Характеристики",
+              "id": 54,
+              "ideas": {
+                "1": {
+                  "title": "Бесконечна",
+                  "id": 55,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Среда, в которой движутся атомы",
+                  "id": 57,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#008080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Связь с атомами",
+              "id": 58,
+              "ideas": {
+                "1": {
+                  "title": "Обеспечивает движение атомов",
+                  "id": 59,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Необходимое условие для существования материи",
+                  "id": 60,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#008080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              184,
+              -272,
+              11
+            ],
+            "style": {
+              "backgroundColor": "#008080",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Мировоззрение Демокрит",
+  "links": []
+}

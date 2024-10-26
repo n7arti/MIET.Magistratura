@@ -1,0 +1,482 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Мировоззрение Средних веков",
+      "id": 1,
+      "attr": {
+        "position": [
+          -96,
+          -60,
+          1
+        ],
+        "style": {
+          "text": {
+            "color": "#FFFFFF"
+          },
+          "fontMultiplier": 1.25
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Религиозный аспект",
+          "id": 133,
+          "ideas": {
+            "1": {
+              "title": "Христианство",
+              "id": 134,
+              "ideas": {
+                "1": {
+                  "title": "Центральная роль церкви в жизни общества",
+                  "id": 137,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Вера в Бога и священное писание как основа миропонимания",
+                  "id": 138,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "2": {
+              "title": "Теоцентризм",
+              "id": 135,
+              "ideas": {
+                "1": {
+                  "title": "Понимание мира через призму религии",
+                  "id": 139,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Все события и явления объясняются как воля Божья",
+                  "id": 140,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "3": {
+              "title": "Божественное откровение",
+              "id": 136,
+              "ideas": {
+                "1": {
+                  "title": "Вера в откровения как источник истинного знания",
+                  "id": 141,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Августин, Фома Аквинский и их трактовки откровения",
+                  "id": 142,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#CCFFFF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "backgroundColor": "#CCFFFF"
+            }
+          }
+        },
+        "2": {
+          "title": "Социальная структура",
+          "id": 151,
+          "ideas": {
+            "1": {
+              "title": "Феодализм",
+              "id": 152,
+              "ideas": {
+                "1": {
+                  "title": "Структура общества на основе земельной собственности",
+                  "id": 154,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Разделение на три сословия",
+                  "id": 155,
+                  "ideas": {
+                    "1": {
+                      "title": "Духовенство",
+                      "id": 156,
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Дворянство",
+                      "id": 157,
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Крестьяне",
+                      "id": 158,
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#99CC00"
+                }
+              }
+            },
+            "2": {
+              "title": "Роль церкви",
+              "id": 153,
+              "ideas": {
+                "1": {
+                  "title": "Политическая власть и социальное влияние",
+                  "id": 159,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Образование и культурное развитие через монастыри",
+                  "id": 160,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#99CC00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#99CC00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "backgroundColor": "#99CC00"
+            }
+          }
+        },
+        "-1": {
+          "title": "Философия",
+          "id": 143,
+          "ideas": {
+            "1": {
+              "title": "Синтез античной философии и христианства",
+              "id": 144,
+              "ideas": {
+                "1": {
+                  "title": "Аристотелизм и платонизм в контексте христианской теологии",
+                  "id": 147,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Влияние Августина и Фомы Аквинского",
+                  "id": 148,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#008080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Скептицизм и рационализм",
+              "id": 146,
+              "ideas": {
+                "1": {
+                  "title": "Ограниченное применение разума, подчиненное вере",
+                  "id": 149,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Описание методологии схоластики",
+                  "id": 150,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008080",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#008080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "backgroundColor": "#008080",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "-12": {
+          "title": "Культура и искусство",
+          "id": 168,
+          "ideas": {
+            "1": {
+              "title": "Готическая архитектура",
+              "id": 169,
+              "ideas": {
+                "1": {
+                  "title": "Соборы как символы божественной власти",
+                  "id": 171,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Искусство как выражение религиозных идей",
+                  "id": 172,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            },
+            "2": {
+              "title": "Литература и философия",
+              "id": 170,
+              "ideas": {
+                "1": {
+                  "title": "Поэзия, песни и мифы, в основном религиозного содержания",
+                  "id": 173,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Поэзия, песни и мифы, в основном религиозного содержания",
+                  "id": 174,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              594,
+              55,
+              3
+            ],
+            "style": {
+              "backgroundColor": "#FFCC99"
+            }
+          }
+        },
+        "-22": {
+          "title": "Научное мировоззрение",
+          "id": 161,
+          "ideas": {
+            "1": {
+              "title": "Сохранение и передача знаний",
+              "id": 162,
+              "ideas": {
+                "1": {
+                  "title": "Монастыри как центры образования и переписывания книг",
+                  "id": 164,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#33CCCC",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Падение античных знаний, но их частичное сохранение",
+                  "id": 165,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#33CCCC",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#33CCCC",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Астрономия и медицина",
+              "id": 163,
+              "ideas": {
+                "1": {
+                  "title": "Ограниченное развитие, основывающееся на античных учениях",
+                  "id": 166,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#33CCCC",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Влияние Аристотеля и Галена на медицинскую практику",
+                  "id": 167,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#33CCCC",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#33CCCC",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              172,
+              336,
+              4
+            ],
+            "style": {
+              "backgroundColor": "#33CCCC",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Мировоззрение Средних веков",
+  "links": []
+}

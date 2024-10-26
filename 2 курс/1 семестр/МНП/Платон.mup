@@ -1,0 +1,438 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Мировоззрение Платона",
+      "id": 1,
+      "attr": {
+        "position": [
+          -96,
+          -60,
+          1
+        ],
+        "style": {
+          "text": {
+            "color": "#FFFFFF"
+          },
+          "fontMultiplier": 1.25
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Мир идей (форм)",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Идеи (формы)",
+              "id": 4,
+              "ideas": {
+                "1": {
+                  "title": "Совершенные",
+                  "id": 8,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Вечные",
+                  "id": 10,
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Независимые от материального мира",
+                  "id": 11,
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "width": 119,
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "fontMultiplier": 1.25
+                }
+              }
+            },
+            "2": {
+              "title": "Примеры идей",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Идея добра",
+                  "id": 12,
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Идея красоты",
+                  "id": 13,
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Идея справедливости",
+                  "id": 14,
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "width": 119,
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "fontMultiplier": 1.25
+                }
+              }
+            },
+            "3": {
+              "title": "Познание идей",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "Через разум",
+                  "id": 15,
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Анамнезис (воспоминание)",
+                  "id": 16,
+                  "attr": {
+                    "style": {
+                      "width": 119,
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "width": 119,
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "fontMultiplier": 1.25
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "width": 119,
+              "backgroundColor": "#339966",
+              "text": {
+                "color": "#FFFFFF"
+              },
+              "fontMultiplier": 1.25
+            },
+            "position": [
+              222,
+              7,
+              1
+            ]
+          }
+        },
+        "-1": {
+          "title": "Материальный мир",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "Характеристики",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "Низший уровень",
+                  "id": 20,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Непостоянный, изменчивый ",
+                  "id": 22,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Тени и копии идей",
+                  "id": 23,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "fontMultiplier": 1.25
+                }
+              }
+            },
+            "2": {
+              "title": "Ощущение реальности",
+              "id": 19,
+              "ideas": {
+                "1": {
+                  "title": "Через чувства ",
+                  "id": 24,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Искаженное восприятие",
+                  "id": 25,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#666699",
+                      "text": {
+                        "color": "#FFFFFF"
+                      },
+                      "fontMultiplier": 1.25
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "fontMultiplier": 1.25
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "backgroundColor": "#666699",
+              "text": {
+                "color": "#FFFFFF"
+              },
+              "fontMultiplier": 1.25
+            }
+          }
+        },
+        "-11": {
+          "title": "Душа и познание",
+          "id": 26,
+          "attr": {
+            "position": [
+              61,
+              179,
+              2
+            ],
+            "parentConnector": {
+              "width": 1
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Душа",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "Бессмертна ",
+                  "id": 29
+                },
+                "2": {
+                  "title": "Созерцала мир идей до воплощения",
+                  "id": 30
+                }
+              }
+            },
+            "2": {
+              "title": "Познание",
+              "id": 28,
+              "ideas": {
+                "1": {
+                  "title": "Процесс воспоминания",
+                  "id": 31
+                },
+                "2": {
+                  "title": "Цель жизни",
+                  "id": 32
+                }
+              }
+            }
+          }
+        },
+        "0.5": {
+          "title": "Идеальное государство",
+          "id": 33,
+          "attr": {
+            "position": [
+              173,
+              -269,
+              3
+            ],
+            "style": {
+              "backgroundColor": "#FFCC99"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Философы",
+              "id": 34,
+              "ideas": {
+                "1": {
+                  "title": "Должны править",
+                  "id": 37,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            },
+            "2": {
+              "title": "Воины",
+              "id": 35,
+              "ideas": {
+                "1": {
+                  "title": "Защищают государство",
+                  "id": 36,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            },
+            "3": {
+              "title": "Ремесленники",
+              "id": 38,
+              "ideas": {
+                "1": {
+                  "title": "Поддерживают общество",
+                  "id": 39,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Мировоззрение Платона"
+}

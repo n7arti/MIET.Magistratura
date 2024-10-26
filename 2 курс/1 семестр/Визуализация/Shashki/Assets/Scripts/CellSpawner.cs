@@ -17,16 +17,20 @@ public class CellSpawner : MonoBehaviour
     public Cell Spawn(int row, int column, CellType type)
     {
         GameObject cellObject;
+        Cell cell;
 
         if (type == CellType.Red)
         {
-            cellObject = Instantiate(RedCellPrefab, new Vector3(row, 0, column), Quaternion.identity);
+            cellObject = Instantiate(RedCellPrefab, new Vector3(row, 0, column), Quaternion.identity, gameObject.transform);
+            cell = cellObject.GetComponent<Cell>();
+            cell.isRed = true;
         }
         else
         {
-            cellObject = Instantiate(WhiteCellPrefab, new Vector3(row, 0, column), Quaternion.identity);
+            cellObject = Instantiate(WhiteCellPrefab, new Vector3(row, 0, column), Quaternion.identity, gameObject.transform);
+            cell = cellObject.GetComponent<Cell>();
         }
 
-        return cellObject.GetComponent<Cell>();
+        return cell;
     }
 }

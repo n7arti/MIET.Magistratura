@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7392363718446471949}
   - component: {fileID: 6240018223516755413}
   - component: {fileID: -5379348777794178328}
+  - component: {fileID: -1384337517468156238}
   m_Layer: 0
   m_Name: Red Cell
   m_TagString: Untagged
@@ -119,3 +120,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af8561b52f3a44e45a4cb511ab22fd17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isRed: 0
+  _chess: {fileID: 0}
+--- !u!114 &-1384337517468156238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6169985444698582429}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
