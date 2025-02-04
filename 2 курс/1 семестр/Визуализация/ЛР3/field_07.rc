@@ -1,0 +1,138 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Russian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+#ifdef _WIN32
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "File"
+    BEGIN
+        MENUITEM "Exit",                        ID_EXIT
+        MENUITEM "Redraw",                      ID_REDRAW
+    END
+    MENUITEM "Data",                        ID_DATA
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 217, 135
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Data"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,7,114,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,160,114,50,14
+    LTEXT           "поле вывода в видовой системе координат",IDC_STATIC,37,
+                    7,156,8
+    LTEXT           "xe1",IDC_STATIC,7,23,12,8
+    EDITTEXT        IDC_EDIT1,21,21,26,14,ES_AUTOHSCROLL
+    LTEXT           "xe2",IDC_STATIC,54,23,12,8
+    EDITTEXT        IDC_EDIT2,70,21,27,14,ES_AUTOHSCROLL
+    LTEXT           "ye1",IDC_STATIC,106,23,12,8
+    EDITTEXT        IDC_EDIT3,121,21,27,14,ES_AUTOHSCROLL
+    LTEXT           "ye2",IDC_STATIC,158,23,12,8
+    EDITTEXT        IDC_EDIT4,174,21,30,14,ES_AUTOHSCROLL
+    LTEXT           "d - расстояние между центром мировой",IDC_STATIC,19,49,
+                    158,11
+    LTEXT           "системы координат и видовой плоскостью",IDC_STATIC,27,
+                    59,149,8
+    LTEXT           "с - расстояние между видовой плоскостью",IDC_STATIC,19,
+                    72,147,8
+    LTEXT           "и центром проекции",IDC_STATIC,29,82,89,8
+    LTEXT           "d",IDC_STATIC,15,94,8,8
+    EDITTEXT        IDC_EDIT5,29,93,28,14,ES_AUTOHSCROLL
+    LTEXT           "c",IDC_STATIC,71,94,8,8
+    EDITTEXT        IDC_EDIT6,86,93,29,14,ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 210
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 128
+        HORZGUIDE, 31
+        HORZGUIDE, 35
+        HORZGUIDE, 102
+        HORZGUIDE, 107
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Russian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\MIET.Magistratura\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0438\u0437\u0443\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\LR3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22A506D0-CBED-438D-80AB-0C7FABCCC6C0}|LR3\\LR3.vcxproj|C:\\Users\\nastena\\Downloads\\Labor_3\\Programs_3\\Electric_field_02\\Electric_field_02\\electric_field_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6AF01B5C-FADB-4088-A3B8-5C11408E8D8D}|LR3\\LR3.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\MIET.Magistratura\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0438\u0437\u0443\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\\u041B\u04203\\Electric_field_06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "electric_field_02.cpp",
-              "DocumentMoniker": "C:\\Users\\nastena\\Downloads\\Labor_3\\Programs_3\\Electric_field_02\\Electric_field_02\\electric_field_02.cpp",
-              "ToolTip": "C:\\Users\\nastena\\Downloads\\Labor_3\\Programs_3\\Electric_field_02\\Electric_field_02\\electric_field_02.cpp",
-              "ViewState": "AQIAABkCAAAAAAAAAAAAAN8AAAATAAAA",
+              "Title": "Electric_field_06.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\MIET.Magistratura\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0438\u0437\u0443\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\\u041B\u04203\\Electric_field_06.cpp",
+              "RelativeDocumentMoniker": "..\\\u041B\u04203\\Electric_field_06.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\MIET.Magistratura\\2 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0438\u0437\u0443\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\\u041B\u04203\\Electric_field_06.cpp",
+              "RelativeToolTip": "..\\\u041B\u04203\\Electric_field_06.cpp",
+              "ViewState": "AQIAAIMBAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-20T15:57:27.035Z",
+              "WhenOpened": "2024-11-19T14:02:13.136Z",
               "EditorCaption": ""
             }
           ]
